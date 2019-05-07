@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>三眼天机</title>
+  
+  <subtitle>天下武功唯快不破</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://zytforever.github.io/"/>
+  <updated>2019-05-07T02:35:38.575Z</updated>
+  <id>https://zytforever.github.io/</id>
+  
+  <author>
+    <name>zytforever</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>三眼天机</title>
+    <link href="https://zytforever.github.io/2019/05/07/stocktech/3eyeoracle/"/>
+    <id>https://zytforever.github.io/2019/05/07/stocktech/3eyeoracle/</id>
+    <published>2019-05-07T02:30:01.000Z</published>
+    <updated>2019-05-07T02:35:38.575Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;介绍&quot;&gt;介绍&lt;/h1&gt;
+&lt;p&gt;三眼天机&lt;code&gt;3eyeoracle&lt;/code&gt;收集股市数据进行分析预测, 目标为了学习python和大数据分析, 只是业余 玩乐.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="stocktech" scheme="https://zytforever.github.io/categories/stocktech/"/>
+    
+    
+      <category term="wiki" scheme="https://zytforever.github.io/tags/wiki/"/>
+    
+  </entry>
+  
+</feed>
